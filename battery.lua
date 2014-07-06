@@ -9,4 +9,4 @@ bashets.register("/home/deper29/.config/awesome/battery.sh",
             format = "  Battery: $1"
         })
         
-
+bashets.start()
